@@ -3,6 +3,11 @@ Slack PKMN
 
 Add animated Pokemon as custom emoji to your Slack.
 
+### Requirements
+
+* gifsicle
+* wget
+
 #### Test it out
 
 Test my tool out on just a few Pokemon:
