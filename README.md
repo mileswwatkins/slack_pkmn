@@ -3,10 +3,13 @@ Slack PKMN
 
 Add animated Pokemon as custom emoji to your Slack.
 
-### Requirements
+Images sourced using [the PokeAPI](https://github.com/PokeAPI/pokeapi).
 
-* gifsicle
-* wget
+#### Requirements
+
+- `gifsicle`
+- `wget`
+- `make`
 
 #### Test it out
 
@@ -31,6 +34,7 @@ or
 # "I only like games evenly divisible by two!"
 make gen2
 make gen4
+make gen6
 ```
 
 or
@@ -40,7 +44,7 @@ or
 ./get_gifs.sh 25 26
 ```
 
-Then, POST the GIFs to Slack, using a simple tool such as https://github.com/smashwilson/slack-emojinator
+Then, POST the GIFs to Slack, using a tool such as https://github.com/smashwilson/slack-emojinator
 
 ```bash
 git clone https://github.com/smashwilson/slack-emojinator.git
