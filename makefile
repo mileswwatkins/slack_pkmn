@@ -22,7 +22,10 @@ gen5:
 	echo "Getting all fifth-generation Pokemon"
 	./get_gifs.sh 494 649
 
-# The sprite website doesn't have sixth-generation yet
-# gen6:
-# 	echo "Getting all sixth-generation Pokemon"
-# 	./get_gifs.sh 650 721
+gen6:
+	echo "Getting all sixth-generation Pokemon"
+	./get_gifs.sh 650 721
+
+gen7:
+	echo "Getting all seventh-generation Pokemon"
+	./get_gifs.sh 722 802
