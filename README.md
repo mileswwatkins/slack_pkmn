@@ -1,6 +1,8 @@
 Slack PKMN
 ---
 
+![The Slack emoji-picker showing Pokemon emoji](https://user-images.githubusercontent.com/4959135/40698914-a0b5c7a4-639f-11e8-9ccc-f6caebbc24c9.gif)
+
 Add animated Pokemon as custom emoji to your Slack.
 
 Images sourced using [the PokeAPI](https://github.com/PokeAPI/pokeapi).
